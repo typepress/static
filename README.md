@@ -1,4 +1,4 @@
-# static [![wercker status](https://app.wercker.com/status/51fcaab5e7b3879d4aa0462c9d7a2d51/s/ "wercker status")](https://app.wercker.com/project/bykey/51fcaab5e7b3879d4aa0462c9d7a2d51) [API Reference](http://gowalker.org/github.com/typepress/static)
+# static [![wercker status](https://app.wercker.com/status/51fcaab5e7b3879d4aa0462c9d7a2d51/s/ "wercker status")](https://app.wercker.com/project/bykey/51fcaab5e7b3879d4aa0462c9d7a2d51) [![API Reference](https://godoc.org/github.com/typepress/static?status.png "gowalker")](http://gowalker.org/github.com/typepress/static)
 
 static file Handler, support gzip precompression
 

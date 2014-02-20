@@ -23,6 +23,11 @@ import (
 )
 
 func TestStatic(t *testing.T) {
+	_, err := os.Stat("_test")
+	if err != nil {
+		println("please init _test")
+		return
+	}
 	tests := []struct {
 		path     string
 		redirect string
